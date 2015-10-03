@@ -1,0 +1,2 @@
+This folder contains example app which demonstrates how to include both server and client libraries to make an useful application.
+This will be a Spring application with fat client located somewhere in content folder.
